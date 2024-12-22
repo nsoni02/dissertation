@@ -1,8 +1,11 @@
-# dissertation
+# Dissertation title
+National Net-Zero Targets: Are they achievable? Assessing the funding sufficiency for developing economies to achieve climate goals
+
+# About repository
 This repository contains the python code used in the dissertation to calculate the energy output in Terra watt hours (TWh) using Multiple Linear Regression (MLR) Model to calculate the projected energy requirement in India in the year 2050
 
 # Inputs
-1.	GDP (Annual percent change) 
+1.	GDP (Annual percent change)
 •	Historical data from 1980 to 2023
 •	Future projections assumed at 6.5% constant growth from 2024 to 2050
 
